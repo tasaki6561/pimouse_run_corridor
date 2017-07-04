@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>pimouse_run_corrid</name>
+  <name>pimouse_run_corridor</name>
   <version>0.0.0</version>
   <description>The pimouse_ros package</description>
   <maintainer email="tasaki_6561@yahoo.co.jp">tasaki</maintainer>
